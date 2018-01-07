@@ -1,0 +1,7 @@
+window.sysTime=1515296215;
+_manCard = {
+	asynJs : [],
+	asynLoad : function(id){
+		_manCard.asynJs.push(id);
+	}
+};
